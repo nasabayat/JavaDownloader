@@ -11,7 +11,7 @@ https://jsonplaceholder.typicode.com/posts
 Get Title and Body regarding the id.
 
 # How to use
-'''
+```bash
 package test;
 
 import com.anynines.JavaDownloader;
@@ -22,4 +22,4 @@ public class test1 {
 		j.show_post(3);
 	}
 }
-'''
+```
