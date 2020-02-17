@@ -4,7 +4,7 @@
 Main class which includes @SpringBootApplication
 
 ## JsonplaceholderPost
-object of bwlo URL:
+object of bewlo URL:
 https://jsonplaceholder.typicode.com/posts 
 
 ## JavaDownloader
