@@ -8,8 +8,5 @@ public class JavaDownloaderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaDownloaderApplication.class, args);
-		
-		JavaDownloader java_downloader = new JavaDownloader();
-		java_downloader.show_post(3);
 	}
 }
