@@ -1,5 +1,6 @@
 package com.anynines;
 
+// Spring Suite Tool (STS) creates a consumer class for REST service.
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

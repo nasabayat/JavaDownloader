@@ -1,5 +1,8 @@
 package com.anynines;
 
+// Class which contains variables of below URL as its properties and related get/set methods.
+// https://jsonplaceholder.typicode.com/posts
+
 public class JsonplaceholderPost {
 	private int userId;
 	private int id;
